@@ -35,6 +35,6 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "1.0.1",
-    "yetalib": "github:fancn21th/yetalib#main"
+    "yetalib": "https://github.com/fancn21th/yetalib/archive/refs/tags/v1.0.0.tar.gz"
   }
 }
